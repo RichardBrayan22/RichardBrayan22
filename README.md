@@ -1,10 +1,5 @@
 ### Olá! Eu sou o Richard Brayan ✌
 
-<div>
-  <a href="https://github.com/RichardBrayan22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardBrayan22&rank_icon=github&include_all_commits=true&show_icons=true&theme=blue_navy#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardBrayan22&layout=compact&theme=blue_navy">
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Brayan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
